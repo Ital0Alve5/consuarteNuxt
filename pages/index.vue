@@ -1,5 +1,6 @@
 <template>
-  <Header />
+  <SectionHero />
+  <SectionAboutUs />
 </template>
 
 <script lang="ts" setup>

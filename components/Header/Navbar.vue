@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="absolute shadow-xl md:shadow-none md:static mx-2 md:mx-0 top-full md:h-full md:w-full md:max-w-[940px] transition-transform origin-top md:scale-100 inset-x-0 backdrop-blur bg-white/[0.3] md:bg-transparent"
+    class="absolute shadow-xl md:shadow-none md:static mx-2 md:mx-0 top-full md:h-full md:w-full md:max-w-[940px] transition-transform origin-top md:scale-100 inset-x-0"
     :class="[isMenuMobileOpened ? 'scale-y-100' : 'scale-y-0']"
   >
     <ul
